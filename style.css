@@ -1,0 +1,11 @@
+.banner {
+  background: url(https://anekatempatwisata.com/wp-content/uploads/2015/07/Gunung-Bromo-Jawa-Timur.jpg) no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+
+.card {
+  background-color: #fff;
+}
